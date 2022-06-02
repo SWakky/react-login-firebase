@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SWakky/react-login-firebase/static/css/main.073c9b0a.css",
+    "main.js": "/SWakky/react-login-firebase/static/js/main.235bd8f6.js",
+    "static/js/787.ab448953.chunk.js": "/SWakky/react-login-firebase/static/js/787.ab448953.chunk.js",
+    "index.html": "/SWakky/react-login-firebase/index.html",
+    "main.073c9b0a.css.map": "/SWakky/react-login-firebase/static/css/main.073c9b0a.css.map",
+    "main.235bd8f6.js.map": "/SWakky/react-login-firebase/static/js/main.235bd8f6.js.map",
+    "787.ab448953.chunk.js.map": "/SWakky/react-login-firebase/static/js/787.ab448953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.235bd8f6.js"
+  ]
+}
